@@ -8,7 +8,7 @@
  
 */
 
-This is a basic student mangement system console application using JAVA programming.
+This is a basic student management system console application using JAVA programming.
 Used Properties:
 #File Handling
 #Exception Handling
